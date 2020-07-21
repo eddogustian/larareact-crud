@@ -20,5 +20,5 @@ localhost:8000
 Hasilnya:
 
 <img src="/public/images/maknacoding.png" alt="content">
-<img src="{{ asset('images/maknacoding.png')}}" alt="content">
+
 
